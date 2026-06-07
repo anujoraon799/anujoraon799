@@ -35,5 +35,5 @@ Analyzed retail business performance, customer behavior, and market trends throu
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/anuj-oraon-ab0a22298/
 - GitHub: https://github.com/anujoraon799
