@@ -1,39 +1,40 @@
 # Hi, I'm Anuj Oraon 👋
 
-Aspiring Data Analyst with a Master's in Data Analytics, passionate about transforming raw data into actionable business insights through analytics, visualization, and problem-solving.
+Data Analyst with hands-on experience in retail and commercial analytics, currently based in Bengaluru. I've worked across category analytics, customer intelligence, pricing & margin, and promotional analytics — supporting decisions across a 470+ store retail network at Giant Eagle's Global Capability Center.
 
-## Skills
+I work primarily in SQL (Snowflake, Databricks), Python (Pandas, NumPy, Matplotlib, Seaborn), and Power BI. My focus is on turning messy business data into clear insights and actionable recommendations — not just charts.
 
-- SQL
-- Python (Pandas, NumPy)
-- Power BI
-- Excel
-- Statistics
-- Data Visualization
-- Exploratory Data Analysis (EDA)
+---
 
 ## Featured Projects
 
-### Telecom Customer Retention Analysis
-End-to-end customer churn analysis using Python, Pandas, Matplotlib, and Seaborn. Identified high-risk customer segments, churn drivers, revenue impact, and retention strategies through business-focused exploratory data analysis.
+### 🔵 [Telecom Customer Retention Analysis](https://github.com/anujoraon799/telecom-customer-retention-analysis)
+End-to-end customer churn analysis on a 7,000+ customer telecom dataset. Identified high-risk segments, quantified revenue impact, and developed data-driven retention recommendations through structured exploratory data analysis.
+`Python` `Pandas` `Seaborn` `Matplotlib` `EDA` `Business Analysis`
 
-### Sales Insights Dashboard (Power BI)
-Built an interactive Power BI dashboard for sales performance analysis, highlighting top-performing products, cities, and profitability trends using SQL and Power BI.
+### 🟢 [SQL Business Performance Analysis](https://github.com/anujoraon799/sql-business-performance-analysis)
+SQL case study analyzing revenue performance, customer acquisition channels, product trends, and business growth drivers using joins, aggregations, window functions, and KPI analysis.
+`SQL` `Revenue Analysis` `KPI Reporting` `Business Intelligence`
 
-### SQL Business Performance Analysis
-Performed KPI analysis using SQL joins, aggregations, window functions, and customer segmentation techniques to generate business insights.
+### 🟡 [Retail Analytics Case Study — Forage (Quantium)](https://github.com/anujoraon799/forage-retail-analytics-project)
+Customer segmentation and A/B test analysis for retail chip category performance. Applied control store selection methodology and statistical comparison to measure the impact of a store trial.
+`Python` `Pandas` `A/B Testing` `Retail Analytics`
 
-### Retail Analytics Case Study
-Analyzed retail business performance, customer behavior, and market trends through data-driven reporting and visualization.
+### 🟠 [Excel Market Analysis Case Study](https://github.com/anujoraon799/excel-market-analysis-case-study)
+Advanced Excel case study covering market analysis, CAGR calculations, growth segmentation, and anomaly detection.
+`Excel` `Market Analysis` `Business Analysis`
 
-## Currently Learning
+---
 
-- Advanced SQL
-- Data Storytelling
-- Power BI Dashboard Development
-- Business Analytics
+## Skills
 
-## Connect With Me
+**Languages & Tools:** SQL (Snowflake, Databricks, MySQL) · Python · Power BI (DAX, Data Modeling) · Advanced Excel · Tableau
 
-- LinkedIn: https://www.linkedin.com/in/anuj-oraon-ab0a22298/
-- GitHub: https://github.com/anujoraon799
+**What I do with them:** Customer segmentation, churn analysis, sales performance reporting, pricing & margin analysis, promotional analytics, EDA, KPI dashboards
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Oraon-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuj-oraon-ab0a22298/)
+[![GitHub](https://img.shields.io/badge/GitHub-anujoraon799-181717?style=flat&logo=github)](https://github.com/anujoraon799)
