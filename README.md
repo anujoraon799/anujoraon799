@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Anuj Oraon
 
-<!--
-**anujoraon799/anujoraon799** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst passionate about transforming data into actionable business insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Excel
+- Power BI
+- Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### SQL Business Performance Analysis
+Business KPI analysis using SQL joins, aggregations, and customer insights.
+
+### Excel Market Analysis Case Study
+Advanced Excel project involving CAGR calculations, growth segmentation, and anomaly detection.
+
+### Python Pandas Data Analysis
+Data cleaning, transformation, exploratory data analysis, and business reporting.
+
+### Retail Analytics Project
+Business-focused analytics project completed through Forage.
