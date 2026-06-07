@@ -1,24 +1,39 @@
-# Hi, I'm Anuj Oraon
+# Hi, I'm Anuj Oraon 👋
 
-Data Analyst passionate about transforming data into actionable business insights.
+Aspiring Data Analyst with a Master's in Data Analytics, passionate about transforming raw data into actionable business insights through analytics, visualization, and problem-solving.
 
 ## Skills
+
 - SQL
-- Python
-- Excel
+- Python (Pandas, NumPy)
 - Power BI
+- Excel
 - Statistics
+- Data Visualization
+- Exploratory Data Analysis (EDA)
 
 ## Featured Projects
 
+### Telecom Customer Retention Analysis
+End-to-end customer churn analysis using Python, Pandas, Matplotlib, and Seaborn. Identified high-risk customer segments, churn drivers, revenue impact, and retention strategies through business-focused exploratory data analysis.
+
+### Sales Insights Dashboard (Power BI)
+Built an interactive Power BI dashboard for sales performance analysis, highlighting top-performing products, cities, and profitability trends using SQL and Power BI.
+
 ### SQL Business Performance Analysis
-Business KPI analysis using SQL joins, aggregations, and customer insights.
+Performed KPI analysis using SQL joins, aggregations, window functions, and customer segmentation techniques to generate business insights.
 
-### Excel Market Analysis Case Study
-Advanced Excel project involving CAGR calculations, growth segmentation, and anomaly detection.
+### Retail Analytics Case Study
+Analyzed retail business performance, customer behavior, and market trends through data-driven reporting and visualization.
 
-### Python Pandas Data Analysis
-Data cleaning, transformation, exploratory data analysis, and business reporting.
+## Currently Learning
 
-### Retail Analytics Project
-Business-focused analytics project completed through Forage.
+- Advanced SQL
+- Data Storytelling
+- Power BI Dashboard Development
+- Business Analytics
+
+## Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL]
+- GitHub: https://github.com/anujoraon799
