@@ -74,13 +74,13 @@ Signature project: Automated weekly Smart Narrative reporting in Power BI, reduc
 **BCA** | St. Joseph's College, Darjeeling
 
 **Certifications:** 
-- •	SQL Advanced + SQL Intermediate — Verified — HackerRank (Apr 2026)
-- •	Python Basic — Verified — HackerRank (Mar 2026)
-- •	Mastering Data Analysis using Microsoft Excel (Formulas & Pivot Tables) — Alison (Mar 2026)
-- •	VBA for Beginners — Alison (Apr 2026)
-- •	Data Analytics Job Simulation (Python — EDA, A/B Testing, Statistical Reporting) — Quantium / Forage (Mar 2026)
-- •	Tableau: Data Visualization and Analysis — Tableau (Aug 2024)
-- •	Power BI: Introduction to Power BI — Microsoft (May 2024)
+- SQL Advanced + SQL Intermediate — Verified — HackerRank (Apr 2026)
+- Python Basic — Verified — HackerRank (Mar 2026)
+- Mastering Data Analysis using Microsoft Excel (Formulas & Pivot Tables) — Alison (Mar 2026)
+- VBA for Beginners — Alison (Apr 2026)
+- Data Analytics Job Simulation (Python — EDA, A/B Testing, Statistical Reporting) — Quantium / Forage (Mar 2026)
+- Tableau: Data Visualization and Analysis — Tableau (Aug 2024)
+- Power BI: Introduction to Power BI — Microsoft (May 2024)
 
 
 ---
