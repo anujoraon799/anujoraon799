@@ -70,8 +70,8 @@ Signature project: Automated weekly Smart Narrative reporting in Power BI, reduc
 
 ## 🎓 Education
 
-**MSc — Big Data Analysis** | St. Joseph's University, Bengaluru | 2025
--**BCA** | St. Joseph's College, Darjeeling
+- **MSc — Big Data Analysis** | St. Joseph's University, Bengaluru | 2025
+- **BCA** | St. Joseph's College, Darjeeling
 
 **Certifications:** 
 - SQL Advanced + SQL Intermediate — Verified — HackerRank (Apr 2026)
