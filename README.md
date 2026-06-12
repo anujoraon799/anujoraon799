@@ -73,7 +73,7 @@ Signature project: Automated weekly Smart Narrative reporting in Power BI, reduc
 **MSc — Big Data Analysis** | St. Joseph's University, Bengaluru | 2025
 **BCA** | St. Joseph's College, Darjeeling
 
-**Certifications:** •	SQL Advanced + SQL Intermediate — Verified — HackerRank (Apr 2026)
+**Certifications:** •	SQL Advanced + SQL Intermediate — Verified — HackerRank (Apr 2026)\n
 •	Python Basic — Verified — HackerRank (Mar 2026)
 •	Mastering Data Analysis using Microsoft Excel (Formulas & Pivot Tables) — Alison (Mar 2026)
 •	VBA for Beginners — Alison (Apr 2026)
