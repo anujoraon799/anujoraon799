@@ -8,7 +8,7 @@ I work primarily in SQL, Python, and Power BI — focused on turning business qu
 
 ## 🗂️ Featured Projects
 
-### 🔴 [Smartphone Market Intelligence Analysis — SQL](https://github.com/anujoraon799/smartphone-sql-market-analysis)
+### 🔴 [Smartphone Market Intelligence Analysis — SQL](https://github.com/anujoraon799/smartphone-market-intelligence-sql)
 35-question SQL case study on a real-world dataset of 980 smartphones across 46 brands. Covers market segmentation, brand positioning, pricing strategy, 5G adoption, feature analysis, and competitive intelligence. Demonstrates the full SQL spectrum from basic aggregations to window functions, CTEs, correlated subqueries, and statistical measures.
 
 **Key findings:** Xiaomi dominates Budget and Mid-Range; Apple leads Flagship but rates below several Android competitors; only 4.18% of phones qualify as truly feature-complete; fast charging is a Chinese brand battleground.
