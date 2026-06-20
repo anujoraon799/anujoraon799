@@ -88,4 +88,5 @@ Signature project: Automated weekly Smart Narrative reporting in Power BI, reduc
 ## 📬 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anuj%20Oraon-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/anuj-oraon-ab0a22298/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anujoraon.netlify.app-00D4FF?style=flat&logo=netlify)](https://anujoraon.netlify.app)
 [![GitHub](https://img.shields.io/badge/GitHub-anujoraon799-181717?style=flat&logo=github)](https://github.com/anujoraon799)
